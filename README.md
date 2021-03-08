@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mouhsineelachbi
 - 👀 I’m interested in full stack web and mobile developement
-- 🌱 I’m currently learning Javascript frameworks
+- 🌱 I’m currently learning Javascript frameworks for web and mobile, I'm also learning Flutter
 - 💞️ I’m looking to collaborate on solid projects
 - 📫 How to reach me ? by email : mouhsineelachbi@gmail.com or mouhsine_elachbi@um5.ac.ma
 
