@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mouhsineelachbi
-- 👀 I’m interested in solving software problems using best techs and architectures
+- 👀 I’m interested in solving software problems
 - 💞️ I’m ready to collaborate on solid projects for web, mobile and data science projects
 - 📫 How to reach me ? by email : mouhsineelachbi@gmail.com
 <!---
